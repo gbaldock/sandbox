@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>Gayle Baldock - Programmer</title>
+<style>
+body {
+  font-family: helvetica, arial, san-serif;
+  text-align: center;
+  background: url("http://i.imgur.com/VETIVNeh.jpg");
+  background-size: cover;
+  background-position: 10px 50px;
+  color: white;
+}
+
+p {
+  font-size: 22px;
+  }
+  
+input[type="submit"]{
+  background:red;
+  padding: 10px;
+  }
+  
+input[type="email"]{
+  border: 0;
+  padding: 10px;
+  font-size: 12px;
+  }
+</style>
+</head>
+<body>
+
+<img src=http://i.imgur.com/A4zXPvzt.jpg>
+<h1>Hi I'm Gayle a Reno based Programmer.</h1>
+<p>How can I help?</p>
+<input type="email" placeholder="Your Email">
+<input type="submit">
+</body>
+</html>
